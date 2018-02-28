@@ -1,5 +1,4 @@
-﻿<!-- Last project change: 2018-02-28 15:38:08 (2018-02-28 10:08:08) -->
-<PrjQlikViewProject>
+﻿<PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
     <DocBinaryFileName>DocBinary.dat</DocBinaryFileName>
@@ -13,59 +12,7 @@
     <PrjSheetProperties>
       <SheetId>Document\SH01</SheetId>
       <IsActive>true</IsActive>
-      <ChildObjects>
-        <PrjFrameParentDef>
-          <ObjectId>Document\CS01</ObjectId>
-          <Rect>
-            <Left>31</Left>
-            <Top>31</Top>
-            <Width>1050</Width>
-            <Height>450</Height>
-          </Rect>
-          <MinimizedRect>
-            <Left>0</Left>
-            <Top>0</Top>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-          <ZedLevel>0</ZedLevel>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\SO01</ObjectId>
-          <Rect>
-            <Left>31</Left>
-            <Top>497</Top>
-            <Width>1050</Width>
-            <Height>100</Height>
-          </Rect>
-          <MinimizedRect>
-            <Left>0</Left>
-            <Top>0</Top>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-          <ZedLevel>0</ZedLevel>
-        </PrjFrameParentDef>
-        <PrjFrameParentDef>
-          <ObjectId>Document\CH01</ObjectId>
-          <Rect>
-            <Left>1097</Left>
-            <Top>31</Top>
-            <Width>1400</Width>
-            <Height>900</Height>
-          </Rect>
-          <MinimizedRect>
-            <Left>0</Left>
-            <Top>0</Top>
-            <Width>297</Width>
-            <Height>102</Height>
-          </MinimizedRect>
-          <ShowMode>1</ShowMode>
-          <ZedLevel>0</ZedLevel>
-        </PrjFrameParentDef>
-      </ChildObjects>
+      <ChildObjects></ChildObjects>
     </PrjSheetProperties>
   </SHEETS>
   <REPORTS></REPORTS>

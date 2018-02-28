@@ -767,7 +767,7 @@
     <ExtendedValues></ExtendedValues>
     <StateName></StateName>
   </CaptionFrame>
-  <HasTableOriginOfFields>true</HasTableOriginOfFields>
+  <HasTableOriginOfFields>false</HasTableOriginOfFields>
   <ReloadTimeObsololete></ReloadTimeObsololete>
   <VBModulePos>-2</VBModulePos>
   <VBModuleXScrollPos>-2</VBModuleXScrollPos>
@@ -1293,7 +1293,7 @@
   <EnableDynamicDataUpdate>false</EnableDynamicDataUpdate>
   <LogfileIOMode>LOGFILE_CLASSIC_OVERWRITE</LogfileIOMode>
   <UseAjaxUI>false</UseAjaxUI>
-  <ClearedForNamedUserDocumentCal>true</ClearedForNamedUserDocumentCal>
+  <ClearedForNamedUserDocumentCal>false</ClearedForNamedUserDocumentCal>
   <NotClearedForNamedUserDocumentCalReason></NotClearedForNamedUserDocumentCalReason>
   <UseMetaSectionAccessNames>true</UseMetaSectionAccessNames>
   <SelectionAlpha>255</SelectionAlpha>
@@ -1304,14 +1304,8 @@
   <Extensions></Extensions>
   <ExtensionDescriptions></ExtensionDescriptions>
   <AllowServerAnnotation>true</AllowServerAnnotation>
-  <LastReloadTimeAsISOString>2018-02-28T10:07:20.957Z</LastReloadTimeAsISOString>
-  <AppProperties>
-    <Title></Title>
-    <LastReloadTime>2018-02-28T10:07:20.957Z</LastReloadTime>
-    <MigrationHash></MigrationHash>
-    <SavedInProductVersion></SavedInProductVersion>
-    <Thumbnail></Thumbnail>
-  </AppProperties>
+  <LastReloadTimeAsISOString>2018-02-28T10:34:27Z</LastReloadTimeAsISOString>
+  <AppProperties></AppProperties>
   <LocalizedMainSection></LocalizedMainSection>
   <FavoriteVariables></FavoriteVariables>
   <SearchFields></SearchFields>
